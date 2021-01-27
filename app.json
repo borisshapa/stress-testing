@@ -1,0 +1,6 @@
+{
+  "name": "Stress Testing",
+  "description": "A web application that allows you to determine the test on which the program does not work.",
+  "image": "heroku/java",
+  "addons": [ "heroku-postgresql" ]
+}

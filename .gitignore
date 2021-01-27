@@ -1,0 +1,6 @@
+/.gradle
+/build
+/.idea
+/client/build
+/server/build
+two-machines.txt
